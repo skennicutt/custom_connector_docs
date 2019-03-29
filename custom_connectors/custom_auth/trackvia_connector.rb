@@ -410,7 +410,7 @@
       }
     },
     get_file_from_record: {
-      description: "Get <span class='provider'>file</span> from " \
+      description: "Get <span class='provider'>document</span> from " \
       "a record in <span class='provider'>TrackVia</span>.",
       help: "Retreive a file from a record's document field in TrackVia",
       config_fields: [
